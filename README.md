@@ -1,7 +1,6 @@
-# PyQtGraph CSV Plotter
+# Data Plotter
 
-A PyQtGraph-based application for plotting specific columns from a CSV file. This project serves as a template for potential use with Qt Designer Forms.
-
+An application built with PyQtGraph for visualizing specific columns from a CSV file. This project is designed as a template for potential integration with Qt Designer Forms.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
